@@ -20,10 +20,6 @@ Each button increases the multiplier on click:
 
 ---
 
-## 🔗 Live Preview
-
-[Click here to view live](https://muhammadhussain1911.github.io/React-Hooks-Practice/) <!-- ← Add your Vercel/Netlify live URL here -->
-
 ## Installation ⚙️
 1. Clone the repository:
    ```bash
